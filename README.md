@@ -14,3 +14,4 @@ Gosto muito de aprender coisas novas e estou sempre estudando um pouco de tudo. 
 - CSS
 - JS
 - PYTHON
+- C
