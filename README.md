@@ -15,3 +15,4 @@ Gosto muito de aprender coisas novas e estou sempre estudando um pouco de tudo. 
 - JS
 - PYTHON
 - C
+- COMUNICAÇÃO (SOFT)
