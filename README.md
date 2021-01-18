@@ -7,7 +7,7 @@
 
 Atualmente trabalho como Analista de Sistemas em um Supermercado. Atuo realizando a manutenção das informações no sistema ECOCENTAURO.
 
-Gosto muito de aprender coisas novas e estou sempre estudando um pouco de tudo. :octocat:
+Focado sempre em aprender coisas novas, estou sempre estudando um pouco de tudo. :octocat:
 
 # - Skills (em desenvolvimento)
 - HTML
