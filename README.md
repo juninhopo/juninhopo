@@ -15,3 +15,4 @@ Focado sempre em aprender coisas novas, estou sempre estudando um pouco de tudo.
 - JS
 - PYTHON
 - C
+- LINUX
