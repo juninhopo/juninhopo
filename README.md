@@ -9,7 +9,7 @@ Atualmente trabalho como Analista de Sistemas em um Supermercado. Atuo realizand
 
 Focado sempre em aprender coisas novas, estou sempre estudando um pouco de tudo. :octocat:
 
-# - Skills (em desenvolvimento)
+# - Skills (em estudos)
 - HTML
 - CSS
 - JS
