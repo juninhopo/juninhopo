@@ -7,8 +7,6 @@ English version :arrow_right: [On Here](https://github.com/juninhopo/juninhopo/b
 
 ## Sou estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
 
-Atualmente trabalho como Analista de Sistemas em um Supermercado. Atuo realizando a manutenção das informações no sistema ECOCENTAURO.
-
 Focado sempre em aprender coisas novas, estou sempre estudando um pouco de tudo. :octocat:
 
 # - Skills (em estudo)
