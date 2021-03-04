@@ -5,8 +5,6 @@
 
 ## I'm an Information Systems student :computer: in Brazil :earth_americas:
 
-I currently work as a Systems Analyst in a Supermarket. I work maintaining information in the ECOCENTAURO system.
-
 Always focused on learning new things, I'm always studying a little bit of everything. :octocat:
 
 # - Skills (in study)
