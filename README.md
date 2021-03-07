@@ -7,7 +7,7 @@ English version :arrow_right: [On Here](https://github.com/juninhopo/juninhopo/b
 
 ## Sou estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
 
-Focado sempre em aprender coisas novas, estou sempre estudando um pouco de tudo. :octocat:
+Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octocat:
 
 # - Skills (em estudo)
 - HTML
