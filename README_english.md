@@ -5,7 +5,7 @@
 
 ## I'm an Information Systems student :computer: in Brazil :earth_americas:
 
-Always focused on learning new things, I'm always studying a little bit of everything. :octocat:
+Always focused on learning new things, always studying a little bit of everything. :octocat:
 
 # - Skills (in study)
 - HTML
