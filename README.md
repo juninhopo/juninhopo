@@ -5,7 +5,7 @@
 
 English version :arrow_right: [On Here](https://github.com/juninhopo/juninhopo/blob/main/README_english.md)
 
-## Sou estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
+## Estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
 
 Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octocat:
 
