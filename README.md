@@ -18,4 +18,4 @@ Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octo
 - PYTHON
 - LINUX
 
-![Juninhopo's GitHub stats](https://github.com/juninhopo)
+[![Darlan Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhopo)](https://github.com/anuraghazra/github-readme-stats)
