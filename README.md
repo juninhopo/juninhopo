@@ -18,4 +18,4 @@ Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octo
 - PYTHON
 - LINUX
 
-![Darlan Jr GitHub stats](https://github.com/juninhopo&show_icons=true&theme=dracula)
+![Juninhopo's GitHub stats](https://github.com/juninhopo&show_icons=true&theme=dracula)
