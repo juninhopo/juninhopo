@@ -17,4 +17,3 @@ Always focused on learning new things, always studying a little bit of everythin
 - LINUX
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Darlan Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhopo)](https://github.com/anuraghazra/github-readme-stats)
