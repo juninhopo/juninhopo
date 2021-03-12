@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/darlan-oliveira-93a745147/)](https://www.linkedin.com/in/darlan-oliveira-93a745147/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juninhopoo)](https://twitter.com/juninhopoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
 
 ## Systems student :computer: in Brazil :earth_americas:
 
@@ -14,3 +15,6 @@ Always focused on learning new things, always studying a little bit of everythin
 - PYTHON
 - C
 - LINUX
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Darlan Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhopo)](https://github.com/anuraghazra/github-readme-stats)
