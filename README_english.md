@@ -11,6 +11,7 @@ Always focused on learning new things, always studying a little bit of everythin
 - HTML
 - CSS
 - JS
+- NODEJS
 - PYTHON
 - C
 - LINUX
