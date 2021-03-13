@@ -14,6 +14,7 @@ Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octo
 - HTML
 - CSS
 - JS
+- NODEJS
 - PYTHON
 - LINUX
 
