@@ -18,4 +18,4 @@ Focado sempre em aprender coisas novas, sempre estudando um pouco de tudo. :octo
 - PYTHON
 - LINUX
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
