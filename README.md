@@ -9,9 +9,6 @@ English version :arrow_right: [On Here](https://github.com/juninhopo/juninhopo/b
 ## Estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
 
 # - Skills (em estudo)
-- HTML
-- CSS
-- JS
 - REACTJS
 - NODEJS
 - PYTHON
