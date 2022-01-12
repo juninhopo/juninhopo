@@ -3,9 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/darlan-oliveira-93a745147/)](https://www.linkedin.com/in/darlan-oliveira-93a745147/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
 
-
-English version :arrow_right: [On Here](https://github.com/juninhopo/juninhopo/blob/main/README_english.md)
-
 ## Estudante de Sistemas de Informação :computer: no Brasil :earth_americas:
 
 # - Skills (em estudo)
