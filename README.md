@@ -6,8 +6,9 @@
 
 
 # - Skills (em estudo)
-- JAVASCRIPT
 - REACTJS
+- JAVASCRIPT
+- TYPESCRIPT
 - NODEJS
 - LINUX
 - POSTGRESQL
