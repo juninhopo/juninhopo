@@ -6,18 +6,18 @@
 
 
 # - Skills (em estudo)
-###Front-end
+### Front-end
 - REACTJS
 
-###Back-end
+### Back-end
 - JAVASCRIPT
 - TYPESCRIPT
 - NODEJS
 
-###System
+### System
 - LINUX
 
-###Database
+### Database
 - POSTGRESQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
