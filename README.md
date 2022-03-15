@@ -8,6 +8,8 @@
 # - Skills (em estudo)
 ### Front-end
 - REACTJS
+- HTML
+- CSS
 
 ### Back-end
 - JAVASCRIPT
