@@ -3,7 +3,7 @@
 
 **Skills (em estudo):**
 
-<div>
+<div float="left">
     <img src="https://img.shields.io/badge/-HTML-lightgrey>
 </div>
 
