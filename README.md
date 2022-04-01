@@ -13,7 +13,8 @@
 
 Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analyst for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/4k-sehsucht-adventcalendar-26tOVxw5cTv22Z2rS" width="500" height="320" />
+<iframe src="https://giphy.com/embed/26tOVxw5cTv22Z2rS" width="500" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4k-sehsucht-adventcalendar-26tOVxw5cTv22Z2rS">via GIPHY</a></p>
+
 
 **Languages and Tools I'm using:**
 
