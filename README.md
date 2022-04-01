@@ -4,15 +4,12 @@
 **Skills (em estudo):**
 
 <div float="left">
-    <img src="https://img.shields.io/badge/-HTML-lightgrey" alt/>
-    css
     <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/>
-
-    javascript
-    typescript
-    nodejs
-    postgresql
-    linux
+    <img src="https://img.shields.io/badge/-Javascript-yellow" alt="javascript"/>
+    <img src="https://img.shields.io/badge/-Typescript-9cf" alt="typescript"/>
+    <img src="https://img.shields.io/badge/-NodeJS-success" alt="nodejs"/>
+    <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="postgreesql"/>
+    <img src="https://img.shields.io/badge/-Linux-yellowgreen" alt="linux"/>
 <div>
 
 
