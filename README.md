@@ -1,11 +1,16 @@
 ## Hi, :computer::earth_americas:
 
 
-# - Skills (em estudo)
+**Skills (em estudo):**
+<div>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>REACTJS</li>
+    </ul>
+</div>
 ### Front-end
-- HTML
-- CSS
-- REACTJS
+
 
 ### Back-end
 - JAVASCRIPT
@@ -22,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
 ![](https://visitor-badge.glitch.me/badge?page_id=juninhopo.juninhopo)
 
-## **My GitHub Stats:**
+**My GitHub Stats:**
 
 <div float="left">
     <p><img src="https://github-readme-stats.vercel.app/api?username=juninhopo&show_icons=true&theme=gotham" alt="juninhopo" /></p>
