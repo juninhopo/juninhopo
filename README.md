@@ -13,7 +13,9 @@
 
 Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analyst for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
-**Skills (em estudo):**
+  <img align="right" alt="GIF" src="https://giphy.com/embed/26tOVxw5cTv22Z2rS" width="500" height="320" />
+
+**Languages and Tools I'm using:**
 
 <div float="left">
     <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/>
