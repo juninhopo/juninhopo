@@ -15,8 +15,13 @@
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/darlan-oliveira-93a745147/)](https://www.linkedin.com/in/darlan-junior-93a745147/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
+
+<a href="https://www.linkedin.com/in/darlan-junior-93a745147/">
+  <img align="left" alt="Darlan Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/juninhopo/">
+  <img align="left" alt="Darlan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=juninhopo.juninhopo)
 
 **My GitHub Stats:**
