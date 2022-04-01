@@ -4,11 +4,11 @@
 **Skills (em estudo):**
 
 <div float="left">
-    <img src="https://img.shields.io/badge/-HTML-lightgrey>
-</div>
+    <img src="https://img.shields.io/badge/-HTML-lightgrey" alt/>
+<div>
 
 
-
+<br />
 
 
 
