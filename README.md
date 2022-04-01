@@ -5,25 +5,18 @@
 
 <div float="left">
     <img src="https://img.shields.io/badge/-HTML-lightgrey" alt/>
+    css
+    <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/>
+
+    javascript
+    typescript
+    nodejs
+    postgresql
+    linux
 <div>
 
 
 <br />
-
-
-
-### Front-end
-- HTML
-- CSS
-- REACTJS
-### Back-end
-- JAVASCRIPT
-- TYPESCRIPT
-- NODEJS
-### Database
-- POSTGRESQL
-### System
-- LINUX
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/darlan-oliveira-93a745147/)](https://www.linkedin.com/in/darlan-junior-93a745147/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
