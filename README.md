@@ -2,24 +2,26 @@
 
 
 **Skills (em estudo):**
+
 <div>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>REACTJS</li>
-    </ul>
+    <img src="https://img.shields.io/badge/-HTML-lightgrey>
 </div>
+
+
+
+
+
+
 ### Front-end
-
-
+- HTML
+- CSS
+- REACTJS
 ### Back-end
 - JAVASCRIPT
 - TYPESCRIPT
 - NODEJS
-
 ### Database
 - POSTGRESQL
-
 ### System
 - LINUX
 
