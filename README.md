@@ -22,7 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninhopo/)
 ![](https://visitor-badge.glitch.me/badge?page_id=juninhopo.juninhopo)
 
-**My GitHub Stats:**
+## **My GitHub Stats:**
 
 <div float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=juninhopo&show_icons=true&theme=gotham" alt="juninhopo" />
