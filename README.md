@@ -11,6 +11,8 @@
 
 <br />
 
+Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analyst for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
+
 **Skills (em estudo):**
 
 <div float="left">
