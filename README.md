@@ -27,7 +27,8 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analys
 **My GitHub Stats:**
 
 <div float="left">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=juninhopo&show_icons=true&theme=gotham" alt="juninhopo" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo&theme=gotham" alt="juninhopo" /></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo&theme=gotham" alt="juninhopo" />
+    <img src="https://github-readme-stats.vercel.app/api?username=juninhopo&show_icons=true&theme=gotham" alt="juninhopo" />
+
 <div>
 
