@@ -14,9 +14,9 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analys
 **Languages and Tools I'm using:**
 
 <div float="left">
-    <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/>
+<!--     <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/> -->
     <img src="https://img.shields.io/badge/-Javascript-yellow" alt="javascript"/>
-    <img src="https://img.shields.io/badge/-Typescript-9cf" alt="typescript"/>
+<!--     <img src="https://img.shields.io/badge/-Typescript-9cf" alt="typescript"/> -->
     <img src="https://img.shields.io/badge/-NodeJS-success" alt="nodejs"/>
     <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="postgreesql"/>
     <img src="https://img.shields.io/badge/-Linux-yellowgreen" alt="linux"/>
