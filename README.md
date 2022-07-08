@@ -27,7 +27,7 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Systems Analys
 <br />
 
 ### Meus sites online:
-<a href="https://cuturl.online"> * Cut URL - Seu encurtador de URL</a>
+- <a href="https://cuturl.online">Cut URL - Seu encurtador de URL</a>
   
   <br />
 
