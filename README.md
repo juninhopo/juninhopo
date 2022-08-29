@@ -16,6 +16,7 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
 <div float="left">
 <!--     <img src="https://img.shields.io/badge/-ReactJS-blue" alt="reactjs"/> -->
     <img src="https://img.shields.io/badge/-Javascript-yellow" alt="javascript"/>
+    <img src="https://img.shields.io/badge/-Typescript-blue" alt="typescript"/>
 <!--     <img src="https://img.shields.io/badge/-Typescript-9cf" alt="typescript"/> -->
     <img src="https://img.shields.io/badge/-Node-success" alt="node"/>
     <img src="https://img.shields.io/badge/-EJS-red" alt="EJS"/>
