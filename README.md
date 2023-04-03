@@ -22,7 +22,7 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
     <img src="https://img.shields.io/badge/-EJS-red" alt="EJS"/>
     </br>
     </br>
-    <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="dynamodb"/>
+    <img src="https://img.shields.io/badge/-dynamodb-blue" alt="dynamodb">
     <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="postgreesql"/>
     <img src="https://img.shields.io/badge/-Sqlite3-blue" alt="sqlite3"/>
     <img src="https://img.shields.io/badge/-Supabase-success" alt="supabase"/>
