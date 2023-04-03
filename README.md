@@ -28,7 +28,7 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
     <img src="https://img.shields.io/badge/-Supabase-success" alt="supabase"/>
     </br>
     </br>
-    <img src="https://img.shields.io/badge/-jest-critical" alt="jest"/>
+    <img src="https://img.shields.io/badge/-Jest-critical" alt="jest"/>
     </br>
     </br>
     <img src="https://img.shields.io/badge/-datadog-blueviolet" alt="datadog"/>
