@@ -18,14 +18,14 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
     <img src="https://img.shields.io/badge/-Javascript-yellow" alt="javascript"/>
     <img src="https://img.shields.io/badge/-Typescript-blue" alt="typescript"/>
 <!--     <img src="https://img.shields.io/badge/-Typescript-9cf" alt="typescript"/> -->
-    <img src="https://img.shields.io/badge/-Node-success" alt="node"/>
+    <img src="https://img.shields.io/badge/-Node-success" alt="Node"/>
     <img src="https://img.shields.io/badge/-EJS-red" alt="EJS"/>
     </br>
     </br>
-    <img src="https://img.shields.io/badge/-dynamodb-blue" alt="dynamodb">
-    <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="postgreesql"/>
-    <img src="https://img.shields.io/badge/-Sqlite3-blue" alt="sqlite3"/>
-    <img src="https://img.shields.io/badge/-Supabase-success" alt="supabase"/>
+    <img src="https://img.shields.io/badge/-Dynamodb-blue" alt="Dynamodb">
+    <img src="https://img.shields.io/badge/-Postgreesql-informational" alt="Postgreesql"/>
+    <img src="https://img.shields.io/badge/-Sqlite3-blue" alt="Sqlite3"/>
+    <img src="https://img.shields.io/badge/-Supabase-success" alt="Supabase"/>
     </br>
     </br>
     <img src="https://img.shields.io/badge/-Jest-critical" alt="Jest"/>
