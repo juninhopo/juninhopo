@@ -28,11 +28,11 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
     <img src="https://img.shields.io/badge/-Supabase-success" alt="supabase"/>
     </br>
     </br>
-    <img src="https://img.shields.io/badge/-Jest-critical" alt="jest"/>
+    <img src="https://img.shields.io/badge/-Jest-critical" alt="Jest"/>
     </br>
     </br>
-    <img src="https://img.shields.io/badge/-datadog-blueviolet" alt="datadog"/>
-    <img src="https://img.shields.io/badge/-Linux-yellowgreen" alt="linux"/>
+    <img src="https://img.shields.io/badge/-Datadog-blueviolet" alt="Datadog"/>
+    <img src="https://img.shields.io/badge/-Linux-yellowgreen" alt="Linux"/>
 <div>
 
 <br />
