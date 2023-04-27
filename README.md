@@ -7,8 +7,6 @@
   <img align="left" alt="Darlan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=juninhopo.juninhopo)
-
 Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Developer for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
 **Languages and Tools I'm using:**
