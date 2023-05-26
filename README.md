@@ -15,6 +15,7 @@ Hi, I'm Darlan, Developer from Brazil, I'm currently working as a Backend Develo
   
 ## ⚙️ Specialties
 💻   Javascript ● Node.js ● EJS ● Terraform ● AWS ● Datadog ● Jest ● Serverless ● Microservices ● Git ● MySQL ● DynamoDB ● MongoDB ● Docker ● SQL ● Supabase ● 
+<br />
 ⭐   Ubuntu ● Design Patterns ● ZSH ● Code Review ● Linux ● Networking ●
   
 <div> 
