@@ -2,8 +2,6 @@
 
 I'm Darlan, Developer from Brazil, I'm currently working as a Backend Developer for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
-<br />
-
 <div>
   
 ## ⚙️ Specialties
