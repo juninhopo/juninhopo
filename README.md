@@ -13,11 +13,4 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Backend Developer 
 
 <br />
 
-**My GitHub Stats:**
-
-<div float="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo&theme=gotham" alt="juninhopo" />
-    <img src="https://github-readme-stats.vercel.app/api?username=juninhopo&show_icons=true&theme=gotham" alt="juninhopo" />
-
-<div>
 
