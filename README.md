@@ -1,6 +1,6 @@
 ### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Darlan, Developer from Brazil, I'm currently working as a Backend Developer for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
+I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
 <div>
   
