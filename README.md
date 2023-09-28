@@ -7,7 +7,7 @@ Ruby's apprentice...
 <div>
   
 ## ⚙️ Specialties
-- 💻   Javascript ● Typescript ● Node.js ● EJS ● Terraform ● AWS ● Datadog ● Jest ● Serverless ● Microservices ● Git ● MySQL ● DynamoDB ● MongoDB ● Docker ● SQL ● Supabase ● 
+- 💻   Javascript ● Typescript ● Node.js ● EJS ● Terraform ● AWS ● Datadog ● Jest ● Serverless ● Microservices ● Git ● MySQL ● DynamoDB ● MongoDB ● Docker ● Supabase ● 
   
 - ⭐   Ubuntu ● Design Patterns ● ZSH ● Code Review ● Linux ● Networking ●
   
