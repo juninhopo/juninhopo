@@ -2,7 +2,7 @@
 
 I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer for [Stone Co.](https://www.stone.co/) at [Ton](https://ton.stone.com.br).
 
-Ruby's apprentice...
+Ruby's and Rust apprentice...
 
 <div>
   
