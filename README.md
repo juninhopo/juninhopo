@@ -4,7 +4,7 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer 
 
 Rust apprentice...
 
-Give 5 minutes to Prof Pierluigi Piazzi and you will be convinced to watch the remaining 1h27minutes -> https://www.youtube.com/watch?v=RlSCoYwnxr4
+Give 5 minutes to Teacher Pierluigi Piazzi and you will be convinced to watch the remaining 1h27minutes -> https://www.youtube.com/watch?v=RlSCoYwnxr4
 
 <div>
   
