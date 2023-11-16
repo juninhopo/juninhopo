@@ -4,7 +4,7 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer 
 
 Rust apprentice... [The Doc in Portuguese](https://gist.github.com/juninhopo/9655a99a6339813c138a0dd5d469993d)
 
-Give 5 minutes to Teacher Pierluigi Piazzi and you will be convinced to watch the remaining 1h27minutes -> https://www.youtube.com/watch?v=RlSCoYwnxr4
+[Give 5 minutes to Teacher Pierluigi Piazzi and you will be convinced to watch the remaining 1h27minutes](https://www.youtube.com/watch?v=RlSCoYwnxr4)
 
 <div>
   
