@@ -6,7 +6,7 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer 
 
 - open sourse beginner
 
-- Rust apprentice... [Doc in Portuguese](https://gist.github.com/juninhopo/9655a99a6339813c138a0dd5d469993d)
+- rust apprentice... [doc in Portuguese](https://gist.github.com/juninhopo/9655a99a6339813c138a0dd5d469993d)
 <div>
   
 ## ⚙️ Specialties
