@@ -11,8 +11,6 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer 
   
 ## ⚙️ Specialties
 - 💻   Javascript ● Typescript ● Node.js ● EJS ● Terraform ● AWS ● Datadog ● Jest ● Serverless ● Microservices ● Git ● MySQL ● DynamoDB ● MongoDB ● Docker ● Supabase ● 
-  
-- ⭐   Ubuntu ● Design Patterns ● ZSH ● Code Review ● Linux ● Networking ●
 
 - [My website](https://juninhopo.com/)
   
