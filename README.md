@@ -4,7 +4,7 @@ I'm Darlan, Developer from Brazil, I'm currently working as a Software Engineer 
 
 - vim evangelist ❤️
 
-- open sourse beginner
+- open source beginner
 
 - rust apprentice... [doc in portuguese](https://gist.github.com/juninhopo/9655a99a6339813c138a0dd5d469993d)
 <div>
