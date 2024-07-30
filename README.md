@@ -1,2 +1,2 @@
-## Hi, [About Me](https://juninhopo.com/)
+## Hi, [about me](https://juninhopo.com/)
 
